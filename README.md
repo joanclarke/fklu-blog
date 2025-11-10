@@ -19,6 +19,7 @@ This repo is part of my **Evolution Path to a Future-Proof Developer** curriculu
 
 ✔ Base React + Vite project set up  
 ✔ Static routing for: Home, About, Contact, Blog  
+🆕 Added Verse of the Day component to Home page using Bible API.
 🛠 Styling, components, and dynamic features coming in future commits
 
 ---
