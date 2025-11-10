@@ -1,16 +1,31 @@
-# React + Vite
+# Faith Keeps Looking Up ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Faith Keeps Looking Up** is a personal blog project being built alongside my fullstack development journey. It will evolve as I learn — integrating real features only after I master the skills needed to build them.
 
-Currently, two official plugins are available:
+This repo is part of my **Evolution Path to a Future-Proof Developer** curriculum. The goal is to build a clean, secure, and interactive fullstack application that includes:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Page routing with React Router
+- 🔄 Verse of the Day (Bible API integration)
+- 📬 Contact form (frontend and backend)
+- 🔐 Prayer journal with user auth
+- ☁️ Deployment with Vercel/Render
+- 🧠 Optional AI-enhanced features later
 
-## React Compiler
+> 💡 This is a _learning-first_ build — styling, polish, and advanced features will come after logic and structure are in place.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Current Progress
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔ Base React + Vite project set up  
+✔ Static routing for: Home, About, Contact, Blog  
+🛠 Styling, components, and dynamic features coming in future commits
+
+---
+
+## 📌 Developer Notes
+
+This project is being tracked in a dedicated roadmap here:  
+**Evolution Path HQ** (managed with ChatGPT)
+
+Each feature is unlocked and implemented **only after** the related skill is learned.
