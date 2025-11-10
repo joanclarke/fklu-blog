@@ -1,4 +1,12 @@
+import VerseOfTheDay from '../components/VerseOfTheDay';
+
 function Home() {
-  return <h1>Welcome to Faith Keeps Looking Up</h1>;
+  return (
+    <div>
+      <h1>Welcome to Faith Keeps Looking Up</h1>
+      <VerseOfTheDay />
+    </div>
+  );
 }
+
 export default Home;
